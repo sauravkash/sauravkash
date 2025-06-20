@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**sauravkash/sauravkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Saurav Patel!
 
-Here are some ideas to get you started:
+🎓 BTech graduate in Computer Science & Engineering (Chandigarh University, 2020)  
+🔐 Currently pursuing a Post Graduate Diploma in Cybersecurity at Loyalist College, Toronto (LCIT)  
+💡 Passionate about cybersecurity, ethical hacking, and building secure software  
+🌱 Always learning—exploring new security tools, CTFs, and real-world vulnerabilities  
+🚀 Open to collaboration on cybersecurity projects, research, and open-source contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect and make the digital world safer!
+
+---
+
+[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravpatelca/)
