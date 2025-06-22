@@ -13,3 +13,5 @@ Let's connect and make the digital world safer!
 ---
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravpatelca/)
+[![Connect with me on My Website](https://img.shields.io/badge/Connect-Website-blue?logo=linkedin&logoColor=white)](https://theguidingboy.com/)
+
